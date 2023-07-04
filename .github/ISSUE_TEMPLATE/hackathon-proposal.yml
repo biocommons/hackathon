@@ -17,6 +17,13 @@ body:
       placeholder: ABC Institution
     validations:
       required: true
+  - type: input
+    id: requested_by
+    attributes:
+      label: Requested By
+      placeholder: project, org, group
+    validations:
+      required: true
   - type: textarea
     id: submitter_additional
     attributes:
