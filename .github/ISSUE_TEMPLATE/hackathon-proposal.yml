@@ -21,13 +21,30 @@ body:
     id: requested_by
     attributes:
       label: Requested By
-      placeholder: project, org, group
+      description: The project, organization, or group who requested this project
+      placeholder: Invitae
     validations:
       required: true
   - type: textarea
     id: submitter_additional
     attributes:
       label: Additional Submitter Details
+  - type: dropdown
+    id: biocommons_repo
+    attributes:
+      label: biocommons Repo
+      description: What biocommons repo is this project associated with?
+      options:
+        - seqrepo
+        - seqrepo-rest
+        - uta
+        - hgvs
+        - anyvar
+        - eutils
+        - bioutils
+        - general (multiple biocommons repos)
+    validations:
+      required: true
   - type: textarea
     id: project_details
     attributes:
@@ -35,8 +52,19 @@ body:
       description: Discuss what the project intends to accomplish
     validations:
       required: true
+  - type: dropdown
+    id: skill_level
+    attributes:
+      label: Skill Level
+      description: Participants should have this skill level
+      options:
+        - Newcomer
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
   - type: textarea
     id: required_skills
     attributes:
       label: Required Skills
-      description: List any skill set necessary or beneficial for participants to contribute to the project, e.g. Python, reStructuredText, Rust, UML
+      description: List any skill set necessary or beneficial for participants to contribute to the project, e.g. Python, Docker, UML
