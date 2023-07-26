@@ -29,6 +29,11 @@ body:
     id: submitter_additional
     attributes:
       label: Additional Submitter Details
+  - type: input
+    id: leads
+    attributes:
+      label: Lead(s)
+      description: Who will be leading this project at the hackathon
   - type: dropdown
     id: biocommons_repo
     attributes:
@@ -52,19 +57,3 @@ body:
       description: Discuss what the project intends to accomplish
     validations:
       required: true
-  - type: dropdown
-    id: skill_level
-    attributes:
-      label: Skill Level
-      description: Participants should have this skill level
-      options:
-        - Newcomer
-        - Intermediate
-        - Advanced
-    validations:
-      required: true
-  - type: textarea
-    id: required_skills
-    attributes:
-      label: Required Skills
-      description: List any skill set necessary or beneficial for participants to contribute to the project, e.g. Python, Docker, UML
