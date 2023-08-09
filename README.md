@@ -5,7 +5,7 @@ This is an issues-only repo for planning the [in-person hackathon](https://bioco
 ## Key Dates
 
 **August 27, 2023**: Last day for project proposals to be submitted\
-**September 3, 2023**: Last day to react and/or comment on projects you'd like to work on (no commitment)\
+**September 8, 2023**: Last day to react and/or comment on projects you'd like to work on (no commitment)\
 **September 17, 2023**: First day of in-person hackathon\
 **September 18, 2023**: Last day of in-person hackathon
 
