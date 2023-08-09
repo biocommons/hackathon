@@ -2,6 +2,13 @@
 
 This is an issues-only repo for planning the [in-person hackathon](https://biocommons.org/private/hackathon-2023/) for September 17-18 (Sunday-Monday).
 
+## Key Dates
+
+**August 27, 2023**: Last day for project proposals to be submitted\
+**September 3, 2023**: Last day to react and/or comment on projects you'd like to work on (no commitment)\
+**September 17, 2023**: First day of in-person hackathon\
+**September 18, 2023**: Last day of in-person hackathon
+
 ## Getting involved
 
 Check out the repository [proposal tracker](https://github.com/biocommons/hackathon-2023/issues)
