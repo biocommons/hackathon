@@ -19,4 +19,4 @@ yet listed, [propose it](https://github.com/biocommons/hackathon-2023/issues/new
 
 Please submit all proposals **by August 27, 2032**.
 
-Please react and/or comment on projects you'd like to work on (no commitment) **by September 3, 2023**.
+Please react and/or comment on projects you'd like to work on (no commitment) **by September 8, 2023**.
