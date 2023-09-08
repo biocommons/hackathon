@@ -12,7 +12,7 @@ header-right: "\\raisebox{.7ex}{Hackathon 2023}"
 
 | Time | Event |
 | -- | ------------------- |
-| 8:45 | Arrival. Please arrive NO LATER than this. We'll have people downstairs to let you into the building. If you arrive late, one of us will have to leave the opening. |
+| 8:45 | Arrival (please notify us if you will be arriving late) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | 9:00 | Welcome and ice-breaker |
 | 9:45 | Project presentations |
 | 10:15 | Form teams |
@@ -26,13 +26,11 @@ header-right: "\\raisebox{.7ex}{Hackathon 2023}"
 | 18:00 | Transit |
 | 18:30 | Dinner at Chateau de Reece. Catering from [Truly Mediterranean](https://www.trulyeats.com/catering-menu) (wraps, platters, kebabs) |
 
-\pagebreak
-
 ### Monday, September 18th
 
 | Time | Event |
 | -- | ------------------- |
-| 8:45 | Arrival &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| 8:45 | Arrival (please notify us if you will be arriving late) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | 9:00 | Standup |
 | 9:45 | Hack! |
 | 12:30 | Lunch @ [Uno Dos Tacos](https://order.toasttab.com/online/uno-dos-tacos) 595 Market St, San Francisco |
