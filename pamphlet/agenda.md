@@ -6,11 +6,11 @@ page-background: "img/gg-bridge.jpg"
 page-background-opacity: 0.1
 ---
 
-## Sunday, September 17th
+### Sunday, September 17th
 
 | Time | Event |
 | -- | ------------------- |
-| 8:45 | Arrival. Please arrive NO LATER than this. We'll have people downstairs to let you into the building. If you arrive late, one of us will have to leave the opening. |
+| 8:45 | Arrival &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | 9:00 | Welcome and ice breaker |
 | 9:45 | Project presentations |
 | 10:15 | Form teams |
@@ -24,7 +24,8 @@ page-background-opacity: 0.1
 | 18:00 | Transit |
 | 18:30 | Dinner at Chateau de Reece |
 
-## Monday, September 18th
+
+### Monday, September 18th
 
 | Time | Event |
 | -- | ------------------- |
