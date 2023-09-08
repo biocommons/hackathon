@@ -10,20 +10,21 @@ page-background-opacity: 0.1
 
 | Time | Event |
 | -- | ------------------- |
-| 8:45 | Arrival &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| 9:00 | Welcome and ice breaker |
+| 8:45 | Arrival. Please arrive NO LATER than this. We'll have people downstairs to let you into the building. If you arrive late, one of us will have to leave the opening. |
+| 9:00 | Welcome and ice-breaker |
 | 9:45 | Project presentations |
 | 10:15 | Form teams |
 | 10:30 | Hack! |
-| 12:00 | Lunch break |
+| 12:00 | Lunch @ [Delarosa Pizza](https://www.delarosasf.com/location/downtown/) 37 Yerbua Buena Ln, San Francisco|
 | 13:00 | Hack! |
 | 15:00	| Afternoon break |
 | 15:15 | Hack! |
 | 16:45 | Wrap up and early success stories |
 | 17:00 | Triage issues |
 | 18:00 | Transit |
-| 18:30 | Dinner at Chateau de Reece |
+| 18:30 | Dinner at Chateau de Reece. Catering from [Truly Mediterranean](https://www.trulyeats.com/catering-menu) (wraps, platters, kebabs) |
 
+\pagebreak
 
 ### Monday, September 18th
 
@@ -32,7 +33,7 @@ page-background-opacity: 0.1
 | 8:45 | Arrival &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | 9:00 | Standup |
 | 9:45 | Hack! |
-| 12:30 | Lunch break |
+| 12:30 | Lunch @ [Uno Dos Tacos](https://order.toasttab.com/online/uno-dos-tacos) 595 Market St, San Francisco |
 | 13:30 | Hack! |
 | 15:00 | Afternoon break |
 | 15:15 | Project wrap up / 1 hour warning |
