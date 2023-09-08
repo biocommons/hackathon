@@ -4,6 +4,8 @@ subtitle: "San Francisco, CA"
 date: "September 2023"
 page-background: "img/gg-bridge.jpg"
 page-background-opacity: 0.1
+header-left: "\\includegraphics[scale=0.03]{img/logo.png} \\raisebox{.7ex}{biocommons}"
+header-right: "\\raisebox{.7ex}{Hackathon 2023}"
 ---
 
 ### Sunday, September 17th
@@ -39,4 +41,3 @@ page-background-opacity: 0.1
 | 15:15 | Project wrap up / 1 hour warning |
 | 16:15 | Presentations from project lead(s) |
 | 17:15 | Closing remarks |
-
