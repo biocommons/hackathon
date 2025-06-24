@@ -4,7 +4,7 @@ This is an issues-only repo for planning biocommons hackathons.
 
 ## Upcoming Events
 
-* [Hackathon 2025](./hackathons/hackathon-2025.md)
+* [Hackathon 2025](./hackathons/hackathon-2025.md): September 3 - 5
 
 ## Past Events
 
