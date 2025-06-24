@@ -1,6 +1,7 @@
 name: Biocommons Hackathon Project Proposal
 description: Project proposal for the Biocommons Hackathon
 title: "[Hackathon project title]"
+labels: [hackathon 2025]
 
 body:
   - type: input
