@@ -5,6 +5,7 @@ This is an issues-only repo for planning biocommons hackathons.
 ## Upcoming Events
 
 * [Hackathon 2025](./hackathons/hackathon-2025.md): September 3 - 5
+  * See more information on the public [Hackathon 2025](https://biocommons.org/en/latest/hackathons/2025/) page.
 
 ## Past Events
 
