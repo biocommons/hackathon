@@ -1,6 +1,8 @@
 # biocommons hackathon 2025
 
 This is an issues-only repo for planning the in-person hackathon for September 3 - 5 (Wednesday-Friday).
+More information can be found on the public [Hackathon 2025](https://biocommons.org/en/latest/hackathons/2025/)
+page.
 
 ## Key Dates
 
