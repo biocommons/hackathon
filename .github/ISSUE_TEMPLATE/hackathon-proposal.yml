@@ -51,6 +51,17 @@ body:
         - general (multiple biocommons repos)
     validations:
       required: true
+  - type: checkboxes
+    id: project_days
+    attributes:
+      label: Which day(s) would the project be offered?
+      description: You may select more than one.
+      options:
+        - label: Hackathon Day 1
+        - label: Hackathon Day 2
+        - label: Hackathon Day 3
+    validations:
+      required: true
   - type: textarea
     id: project_details
     attributes:
